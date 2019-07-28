@@ -75,7 +75,7 @@ class App extends Component {
           </div>
           <div className="map">
             <GoogleMapReact
-              bootstrapURLKeys={{ key: "AIzaSyDRsX35aort_XhjSu3F2vd8CQUiCJCl118"}}
+              bootstrapURLKeys={{ key: "}}
               center={center}
               zoom={11}
             >
